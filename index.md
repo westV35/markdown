@@ -13,8 +13,8 @@ my name is westV35.<br>Nice to meet you!
 - [ ] もちろん！
 ## 今やりたいこと
 <details>
-  <summary>やりたいことリスト</summary>
-  1. テキストおりたたみ<br>
-  2. [リンク](https://westv35.github.io/markdown/ "ループ")
+<summary>やりたいことリスト</summary>
+1. テキストおりたたみ<br>
+2. [リンク](https://westv35.github.io/markdown/ "ループ")
 </details>
   
