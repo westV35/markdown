@@ -13,9 +13,9 @@ my name is westV35.<br>Nice to meet you!
 - [ ] もちろん！
 ## 今やりたいこと
 <details>
-  <summary>やりたいことリスト</summary>
-  テキストおりたたみ<br>
-  リンク<br>
-  画像の挿入  
+  <summary>やりたいこと</summary>
+  1. テキストおりたたみ<br>
+  2. リンク<br>
+  3. 画像の挿入  
 </details>
 [ループ](https://westv35.github.io/markdown/ "akaruimirai.loopへジャンプ")
